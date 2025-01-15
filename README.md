@@ -7,6 +7,7 @@ A beautiful clock application with smooth flip animations built using modern web
 > I am still learning how to use Tauri, so the codebase may not be optimal.
 
 ![Flip Clock Screenshot](screenshot.png)
+![Flip Clock Video](video.mp4)
 
 ## Features
 
